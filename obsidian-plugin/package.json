@@ -1,0 +1,15 @@
+{
+	"name": "latex.auto",
+	"version": "0.1.0",
+	"main": "dist/main.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"devDependencies": {
+        "obsidian": "^1.4.0",
+        "typescript": "^4.9.0",
+        "@codemirror/state": "^6.0.0",
+        "@codemirror/view": "^6.0.0",
+		"@codemirror/language": "6.0.0"
+	}
+}

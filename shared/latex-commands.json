@@ -1,0 +1,27 @@
+{
+	"commands": [
+		"\\alpha", "\\beta", "\\gamma", "\\delta", "\\epsilon", "\\zeta", "\\eta", "\\theta", "\\iota", "\\kappa", "\\lambda", "\\mu", "\\nu", "\\xi", "\\omicron", "\\pi", "\\rho", "\\sigma", "\\tau", "\\upsilon", "\\phi", "\\chi", "\\psi", "\\omega",
+		"\\Gamma", "\\Delta", "\\Theta", "\\Lambda", "\\Xi", "\\Pi", "\\Sigma", "\\Upsilon", "\\Phi", "\\Psi", "\\Omega",
+		"\\frac", "\\sum", "\\int", "\\sqrt", "\\begin", "\\end", "\\textbf", "\\textit", "\\underline", "\\section", "\\subsection", "\\subsubsection", "\\paragraph", "\\subparagraph",
+		"\\item", "\\enumerate", "\\itemize", "\\description", "\\table", "\\figure", "\\caption", "\\label", "\\ref", "\\cite", "\\bibliography", "\\bibliographystyle",
+		"\\include", "\\includeonly", "\\input", "\\documentclass", "\\usepackage", "\\title", "\\author", "\\date", "\\maketitle", "\\tableofcontents", "\\listoffigures", "\\listoftables",
+		"\\part", "\\chapter", "\\appendix", "\\footnote", "\\marginpar", "\\newcommand", "\\renewcommand", "\\providecommand", "\\newenvironment", "\\renewenvironment", "\\newtheorem",
+		"\\abstract", "\\thanks", "\\dedication", "\\preface", "\\acknowledgments", "\\printindex", "\\makeindex", "\\index", "\\glossary", "\\printglossary", "\\newglossaryentry", "\\newacronym",
+		"\\mathbb", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathbf", "\\mathsf", "\\mathtt", "\\mathscr", "\\mathds", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\mathinner",
+		"\\left", "\\right", "\\big", "\\Big", "\\bigg", "\\Bigg", "\\langle", "\\rangle", "\\lceil", "\\rceil", "\\lfloor", "\\rfloor", "\\lgroup", "\\rgroup", "\\lmoustache", "\\rmoustache",
+		"\\overline", "\\underline", "\\overbrace", "\\underbrace", "\\overleftarrow", "\\overrightarrow", "\\underleftarrow", "\\underrightarrow", "\\overleftrightarrow", "\\underleftrightarrow",
+		"\\hat", "\\check", "\\breve", "\\acute", "\\grave", "\\tilde", "\\bar", "\\vec", "\\dot", "\\ddot", "\\dddot", "\\ddddot",
+		"\\text", "\\mbox", "\\fbox", "\\framebox", "\\parbox", "\\rule", "\\vspace", "\\hspace", "\\stretch", "\\vfill", "\\hfill", "\\hrulefill", "\\dotfill", "\\cleardoublepage", "\\clearpage", "\\newpage", "\\pagebreak", "\\nopagebreak", "\\linebreak", "\\nolinebreak",
+		"\\textheight", "\\textwidth", "\\linewidth", "\\columnwidth", "\\paperheight", "\\paperwidth", "\\oddsidemargin", "\\evensidemargin", "\\topmargin", "\\headheight", "\\headsep", "\\footskip", "\\marginparwidth", "\\marginparsep",
+		"\\raggedright", "\\raggedleft", "\\centering", "\\flushleft", "\\flushright", "\\onecolumn", "\\twocolumn", "\\twoside", "\\openright", "\\openany", "\\titlepage", "\\notitlepage", "\\leqno", "\\fleqn", "\\draft", "\\final",
+		"\\document", "\\section*", "\\subsection*", "\\subsubsection*", "\\paragraph*", "\\subparagraph*", "\\part*", "\\chapter*", "\\appendix*", "\\footnote*", "\\marginpar*", "\\newcommand*", "\\renewcommand*", "\\providecommand*", "\\newenvironment*", "\\renewenvironment*", "\\newtheorem*",
+		"\\abstract*", "\\thanks*", "\\dedication*", "\\preface*", "\\acknowledgments*", "\\printindex*", "\\makeindex*", "\\index*", "\\glossary*", "\\printglossary*", "\\newglossaryentry*", "\\newacronym*",
+		"\\mathbb*", "\\mathcal*", "\\frak*", "\\mathit*", "\\mathrm*", "\\mathbf*", "\\mathsf*", "\\mathtt*", "\\mathscr*", "\\mathds*", "\\mathop*", "\\mathrel*", "\\mathbin*", "\\mathord*", "\\mathopen*", "\\mathclose*", "\\mathpunct*", "\\mathinner*",
+		"\\left*", "\\right*", "\\big*", "\\Big*", "\\bigg*", "\\Bigg*", "\\langle*", "\\rangle*", "\\lceil*", "\\rceil*", "\\lfloor*", "\\rfloor*", "\\lgroup*", "\\rgroup*", "\\lmoustache*", "\\rmoustache*",
+		"\\overline*", "\\underline*", "\\overbrace*", "\\underbrace*", "\\overleftarrow*", "\\overrightarrow*", "\\underleftarrow*", "\\underrightarrow*", "\\overleftrightarrow*", "\\underleftrightarrow*",
+		"\\hat*", "\\check*", "\\breve*", "\\acute*", "\\grave*", "\\tilde*", "\\bar*", "\\vec*", "\\dot*", "\\ddot*", "\\dddot*", "\\ddddot*",
+		"\\text*", "\\mbox*", "\\fbox*", "\\framebox*", "\\parbox*", "\\rule*", "\\vspace*", "\\hspace*", "\\stretch*", "\\vfill*", "\\hfill*", "\\hrulefill*", "\\dotfill*", "\\cleardoublepage*", "\\clearpage*", "\\newpage*", "\\pagebreak*", "\\nopagebreak*", "\\linebreak*", "\\nolinebreak*",
+		"\\textheight*", "\\textwidth*", "\\linewidth*", "\\columnwidth*", "\\paperheight*", "\\paperwidth*", "\\oddsidemargin*", "\\evensidemargin*", "\\topmargin*", "\\headheight*", "\\headsep*", "\\footskip*", "\\marginparwidth*", "\\marginparsep*",
+		"\\raggedright*", "\\raggedleft*", "\\centering*", "\\flushleft*", "\\flushright*", "\\onecolumn*", "\\twocolumn*", "\\twoside*", "\\openright*", "\\openany*", "\\titlepage*", "\\notitlepage*", "\\leqno*", "\\fleqn*", "\\draft*", "\\final*"
+	]
+}
